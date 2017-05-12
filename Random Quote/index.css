@@ -1,0 +1,77 @@
+body {
+        font-family: 'Courgette', serif;
+        
+      }
+.quoteHeader {
+  text-align: center;
+  font-size: 3.5em;
+  text-shadow: 3px 3px #d9d9d9;
+Margin-top: 1.5em;  
+}
+.subHeader {
+  width: 60%;
+  float: none;
+  text-align: center;
+  font-size: 0.4em;
+  //text-shadow: 3px 3px 
+  padding-top: 20px;
+  padding-left: 100px;
+ }
+.quote-box {
+  background-color: lightgrey;
+  box-shadow: 10px 10px 5px   #888888;
+  border-radius: 10px;
+  font-size: .3em;
+  width: 50%;
+    padding: 25px;
+    border: 1px solid grey;
+    //margin: 25px;
+  color: blue;
+  margin-top: 30px;
+  }
+.quote-box-2 {
+  color: black;
+  padding-top: 15px;
+}
+.btn-success {
+margin: 0 auto;
+}
+.btn-header {
+  padding-top: 5px; 
+  padding-right: 46px;
+}
+/*************/
+
+.tweet-post-class {
+  display: block;
+  height: auto;
+  width: 280px;
+  margin: 50px auto 0;
+  padding: 10px;
+  border-radius: 5px;
+
+  background-color: #ED327F;
+  text-align: center;
+  cursor: pointer;
+}
+
+a.tweet-post-class {
+  color:#fff;
+  text-decoration:none
+}
+
+a.tweet-post-class:visited {
+  color:#fff
+}
+
+a.tweet-post-class:active,
+a.tweet-post-class:hover {
+  color:#fff;
+  background-color:#55acee
+}
+.tweet-button {
+  margin-top:
+    30px;
+  margin-left: 50px;
+  
+}
